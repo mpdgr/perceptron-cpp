@@ -1,0 +1,3 @@
+C:/Users/Michał Podgórski/CLionProjects/perceptron_c++/cmake-build-debug/CMakeFiles/perceptron_c__.dir
+C:/Users/Michał Podgórski/CLionProjects/perceptron_c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michał Podgórski/CLionProjects/perceptron_c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
